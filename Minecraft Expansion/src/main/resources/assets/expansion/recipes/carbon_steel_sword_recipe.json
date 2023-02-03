@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " C ",
+        " C ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "expansion:carbon_steel_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:carbon_steel_sword",
+        "count": 1
+    }
+}

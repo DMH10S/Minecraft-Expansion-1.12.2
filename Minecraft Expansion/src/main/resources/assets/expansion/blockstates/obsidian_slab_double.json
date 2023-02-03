@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default":  { "model": "expansion:obsidian_slab_double" }
+    }
+}

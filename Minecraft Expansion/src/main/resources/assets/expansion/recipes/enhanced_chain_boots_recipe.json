@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "CAC",
+        "C C"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "expansion:chain"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:chainmail_boots"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_chain_boots",
+        "count": 1
+    }
+}

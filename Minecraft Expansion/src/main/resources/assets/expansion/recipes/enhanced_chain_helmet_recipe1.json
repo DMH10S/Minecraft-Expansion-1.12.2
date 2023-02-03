@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CCC",
+        "CAC",
+        "   "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "expansion:chain"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:chainmail_helmet"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_chain_helmet",
+        "count": 1
+    }
+}

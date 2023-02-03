@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "expansion:blocks/cabbage_crop_block"
+   }
+}

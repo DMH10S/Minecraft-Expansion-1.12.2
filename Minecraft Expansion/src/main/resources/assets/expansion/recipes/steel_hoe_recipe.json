@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " EE",
+        " I ",
+        " I "
+    ],
+   
+    "key":
+    {
+        "E":
+        {
+            "item": "expansion:steel_ingot"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:steel_hoe",
+        "count": 1
+    }
+}

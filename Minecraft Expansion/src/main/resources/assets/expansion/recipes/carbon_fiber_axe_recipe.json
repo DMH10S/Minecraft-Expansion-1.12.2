@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " CC",
+        " SC",
+        " S "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "expansion:carbon_fiber_sheet"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:carbon_fiber_axe",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "L L",
+        "LRL",
+        "   "
+    ],
+   
+    "key":
+    {
+        "L":
+        {
+            "item": "expansion:aluminum_ingot"
+        },
+        
+        "R":
+        {
+            "item": "expansion:aluminum_boots"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_aluminum_boots",
+        "count": 1
+    }
+}

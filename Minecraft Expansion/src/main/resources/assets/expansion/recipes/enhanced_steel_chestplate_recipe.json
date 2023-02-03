@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SAS",
+        "SSS",
+        "SSS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "expansion:steel_ingot"
+        },
+        
+        "A":
+        {
+            "item": "expansion:steel_chestplate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_steel_chestplate",
+        "count": 1
+    }
+}

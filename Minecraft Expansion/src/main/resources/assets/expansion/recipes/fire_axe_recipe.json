@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " BB",
+        " SB",
+        " S "
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:fire_axe",
+        "count": 1
+    }
+}

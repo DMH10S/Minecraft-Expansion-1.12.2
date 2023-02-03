@@ -1,0 +1,9 @@
+{
+   "parent": "block/orientable",
+   "textures": {
+       "top": "expansion:blocks/coke_furnace",
+       "front": "expansion:blocks/coke_furnace_front",
+       "side": "expansion:blocks/coke_furnace",
+       "bottom": "expansion:blocks/coke_furnace"
+   }
+}

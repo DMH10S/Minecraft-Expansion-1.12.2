@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "expansion:items/carbon_fiber_hoe"
+   }
+}

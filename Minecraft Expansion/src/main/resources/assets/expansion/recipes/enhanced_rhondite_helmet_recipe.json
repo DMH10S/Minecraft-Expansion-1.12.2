@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "RRR",
+        "RAR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "expansion:rhondite"
+        },
+        
+        "A":
+        {
+            "item": "expansion:rhondite_helmet"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_rhondite_helmet",
+        "count": 1
+    }
+}

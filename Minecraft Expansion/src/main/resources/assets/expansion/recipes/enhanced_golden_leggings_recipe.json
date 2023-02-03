@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "GGG",
+        "GAG",
+        "G G"
+    ],
+   
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:golden_leggings"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_golden_leggings",
+        "count": 1
+    }
+}

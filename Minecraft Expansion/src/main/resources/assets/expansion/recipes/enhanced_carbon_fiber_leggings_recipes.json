@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CCC",
+        "CAC",
+        "C C"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "expansion:carbon_fiber_sheet"
+        },
+        
+        "A":
+        {
+            "item": "expansion:carbon_fiber_leggings"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_carbon_fiber_leggings",
+        "count": 1
+    }
+}

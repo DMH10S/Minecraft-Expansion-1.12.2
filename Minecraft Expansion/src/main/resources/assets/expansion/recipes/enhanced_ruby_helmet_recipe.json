@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "RRR",
+        "RAR"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "expansion:ruby_helmet"
+        },
+        
+        "R":
+        {
+            "item": "expansion:ruby"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_ruby_helmet",
+        "count": 1
+    }
+}

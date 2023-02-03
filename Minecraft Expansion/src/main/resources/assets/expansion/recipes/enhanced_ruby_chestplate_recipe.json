@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RAR",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "expansion:ruby_chestplate"
+        },
+        
+        "R":
+        {
+            "item": "expansion:ruby"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_ruby_chestplate",
+        "count": 1
+    }
+}

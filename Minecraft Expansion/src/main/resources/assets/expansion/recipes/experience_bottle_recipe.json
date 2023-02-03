@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BGB",
+        "LAL",
+        "OLO"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        "B":
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        "L":
+        {
+            "item": "minecraft:dye",
+            "data": 4
+        },
+        
+        "O":
+        {
+            "item": "minecraft:glowstone_dust"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:experience_bottle",
+        "count": 4
+    }
+}

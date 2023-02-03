@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:string"
+    },
+
+    {
+      "item": "expansion:molten_iron"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "expansion:kevlar_fiber",
+        "count": 1
+    }
+}

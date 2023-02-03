@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "L L",
+        "LAL",
+        "   "
+    ],
+   
+    "key":
+    {
+        "L":
+        {
+            "item": "expansion:lead_ingot"
+        },
+        
+        "A":
+        {
+            "item": "expansion:lead_boots"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_lead_boots",
+        "count": 1
+    }
+}

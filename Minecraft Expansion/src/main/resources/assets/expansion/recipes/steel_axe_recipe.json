@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " EE",
+        " IE",
+        " I "
+    ],
+   
+    "key":
+    {
+        "E":
+        {
+            "item": "expansion:steel_ingot"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:steel_axe",
+        "count": 1
+    }
+}

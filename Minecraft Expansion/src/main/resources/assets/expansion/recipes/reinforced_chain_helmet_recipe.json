@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " O ",
+        "OAO",
+        " O "
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:chainmail_helmet"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:reinforced_chain_helmet",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "LLL",
+        "L L",
+        "   "
+    ],
+   
+    "key":
+    {
+        "L":
+        {
+            "item": "expansion:lead_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:lead_helmet",
+        "count": 1
+    }
+}

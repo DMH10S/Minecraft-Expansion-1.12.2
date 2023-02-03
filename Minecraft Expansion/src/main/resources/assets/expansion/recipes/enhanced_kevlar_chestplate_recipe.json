@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "KAK",
+        "KKK",
+        "KKK"
+    ],
+   
+    "key":
+    {
+        "K":
+        {
+            "item": "expansion:kevlar_sheet"
+        },
+        
+        "A":
+        {
+            "item": "expansion:kevlar_chestplate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_kevlar_chestplate",
+        "count": 1
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " T ",
+        "LIL",
+        " P "
+    ],
+   
+    "key":
+    {
+        "T":
+        {
+            "item": "minecraft:string"
+        },
+        "L":
+        {
+            "item": "minecraft:leather"
+        },
+        "I":
+        {
+            "item": "minecraft:slime_ball"
+        },
+        "P":
+        {
+            "item": "minecraft:paper"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:name_tag",
+        "count": 1
+    }
+}

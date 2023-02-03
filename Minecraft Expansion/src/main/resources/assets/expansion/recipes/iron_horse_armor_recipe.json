@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "  I",
+        "IWI",
+        "ILI"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "L":
+        {
+            "item": "minecraft:leather"
+        },
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 15
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:diamond_horse_armor",
+        "count": 1
+    }
+}

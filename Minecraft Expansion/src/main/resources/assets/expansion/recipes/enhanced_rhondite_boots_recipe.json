@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "RAR",
+        "R R"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "expansion:rhondite"
+        },
+        
+        "A":
+        {
+            "item": "expansion:rhondite_boots"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_rhondite_boots",
+        "count": 1
+    }
+}
