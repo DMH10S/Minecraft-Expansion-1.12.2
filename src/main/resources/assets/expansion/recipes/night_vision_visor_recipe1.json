@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "IOI",
+        "IAI",
+        "   "
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "O":
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:glass_pane"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:night_vision_visor",
+        "count": 1
+    }
+}

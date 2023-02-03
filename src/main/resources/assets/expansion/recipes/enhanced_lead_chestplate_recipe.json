@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "LAL",
+        "LLL",
+        "LLL"
+    ],
+   
+    "key":
+    {
+        "L":
+        {
+            "item": "expansion:lead_ingot"
+        },
+        
+        "A":
+        {
+            "item": "expansion:lead_chestplate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_lead_chestplate",
+        "count": 1
+    }
+}

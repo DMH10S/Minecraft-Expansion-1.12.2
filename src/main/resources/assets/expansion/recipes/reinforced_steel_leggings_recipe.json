@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " O ",
+        "OAO",
+        " O "
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+        
+        "A":
+        {
+            "item": "expansion:steel_leggings"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:reinforced_steel_leggings",
+        "count": 1
+    }
+}

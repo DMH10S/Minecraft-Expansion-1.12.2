@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " AA",
+        " SA",
+        " S "
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "expansion:aluminum_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:aluminum_axe",
+        "count": 1
+    }
+}

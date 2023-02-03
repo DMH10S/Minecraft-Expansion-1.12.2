@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " KK",
+        " KK",
+        "   "
+    ],
+   
+    "key":
+    {
+        "K":
+        {
+            "item": "expansion:kevlar_fiber"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:kevlar_sheet",
+        "count": 1
+    }
+}

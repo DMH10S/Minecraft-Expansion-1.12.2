@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RUR",
+        "CFC",
+        "CBC"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:brick_block"
+        },
+        
+        "U":
+        {
+            "item": "minecraft:bucket"
+        },
+        
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        
+        "F":
+        {
+            "item": "minecraft:furnace"
+        },
+        
+        "B":
+        {
+            "item": "expansion:bellow"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:foundry",
+        "count": 1
+    }
+}

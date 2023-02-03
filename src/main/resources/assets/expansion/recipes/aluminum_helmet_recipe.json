@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "A A",
+        "   "
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "expansion:aluminum_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:aluminum_helmet",
+        "count": 1
+    }
+}

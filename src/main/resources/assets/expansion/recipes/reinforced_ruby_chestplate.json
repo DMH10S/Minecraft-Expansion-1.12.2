@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " O ",
+        "ORO",
+        " O "
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+        
+        "R":
+        {
+            "item": "expansion:ruby_chestplate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:reinforced_ruby_chestplate",
+        "count": 1
+    }
+}

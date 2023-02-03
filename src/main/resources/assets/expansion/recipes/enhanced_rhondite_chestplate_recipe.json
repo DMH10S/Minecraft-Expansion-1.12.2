@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RAR",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "expansion:rhondite"
+        },
+        
+        "A":
+        {
+            "item": "expansion:rhondite_chestplate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_rhondite_chestplate",
+        "count": 1
+    }
+}

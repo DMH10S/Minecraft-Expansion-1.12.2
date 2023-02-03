@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:string"
+    },
+
+    {
+      "item": "expansion:molten_carbon"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "expansion:carbon_fiber",
+        "count": 1
+    }
+}

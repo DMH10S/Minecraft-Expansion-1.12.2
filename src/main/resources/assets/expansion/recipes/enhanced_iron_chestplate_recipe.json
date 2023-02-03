@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "IAI",
+        "III",
+        "III"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:iron_chestplate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_iron_chestplate",
+        "count": 1
+    }
+}

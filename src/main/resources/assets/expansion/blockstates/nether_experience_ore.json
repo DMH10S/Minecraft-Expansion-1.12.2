@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "expansion:nether_experience_ore" }
+    }
+}

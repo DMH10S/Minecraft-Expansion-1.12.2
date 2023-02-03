@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "DDD",
+        "DAD"
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:diamond"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:diamond_helmet"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_diamond_helmet",
+        "count": 1
+    }
+}

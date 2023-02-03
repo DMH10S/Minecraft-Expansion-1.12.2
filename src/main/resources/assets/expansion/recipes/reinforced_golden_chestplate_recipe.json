@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " O ",
+        "OAO",
+        " O "
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:golden_chestplate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:reinforced_golden_chestplate",
+        "count": 1
+    }
+}

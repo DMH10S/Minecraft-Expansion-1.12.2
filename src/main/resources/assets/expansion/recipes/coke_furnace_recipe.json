@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " B ",
+        "BFB",
+        " B "
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:brick_block"
+        },
+        
+        "F":
+        {
+            "item": "minecraft:furnace"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:coke_furnace",
+        "count": 1
+    }
+}

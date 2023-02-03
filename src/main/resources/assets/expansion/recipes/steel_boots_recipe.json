@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "S S",
+        "S S"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "expansion:steel_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:steel_boots",
+        "count": 1
+    }
+}

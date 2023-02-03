@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "LLL",
+        "LRL"
+    ],
+   
+    "key":
+    {
+        "L":
+        {
+            "item": "expansion:aluminum_ingot"
+        },
+        
+        "R":
+        {
+            "item": "expansion:aluminum_helmet"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_aluminum_helmet",
+        "count": 1
+    }
+}

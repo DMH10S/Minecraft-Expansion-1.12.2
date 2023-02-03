@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "CC ",
+        "CC "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "expansion:carbon_fiber"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:carbon_fiber_sheet",
+        "count": 1
+    }
+}

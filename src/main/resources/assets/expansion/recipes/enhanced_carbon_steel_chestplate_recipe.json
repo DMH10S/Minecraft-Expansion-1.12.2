@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CAC",
+        "CCC",
+        "CCC"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "expansion:carbon_steel_ingot"
+        },
+        
+        "A":
+        {
+            "item": "expansion:carbon_steel_chestplate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_carbon_steel_chestplate",
+        "count": 1
+    }
+}

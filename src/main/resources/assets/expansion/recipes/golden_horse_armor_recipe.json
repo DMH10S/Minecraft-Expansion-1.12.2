@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "  G",
+        "GWG",
+        "GLG"
+    ],
+   
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        "L":
+        {
+            "item": "minecraft:leather"
+        },
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 14
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:golden_horse_armor",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "IAI",
+        "I I"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:iron_boots"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_iron_boots",
+        "count": 1
+    }
+}

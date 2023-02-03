@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " E ",
+        " I ",
+        " I "
+    ],
+   
+    "key":
+    {
+        "E":
+        {
+            "item": "expansion:steel_ingot"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:steel_shovel",
+        "count": 1
+    }
+}

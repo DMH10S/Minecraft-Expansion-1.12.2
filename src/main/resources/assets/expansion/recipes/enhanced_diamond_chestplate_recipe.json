@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "DAD",
+        "DDD",
+        "DDD"
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:diamond"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:diamond_chestplate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_diamond_chestplate",
+        "count": 1
+    }
+}

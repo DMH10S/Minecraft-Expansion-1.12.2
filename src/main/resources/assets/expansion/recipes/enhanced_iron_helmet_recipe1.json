@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "III",
+        "IAI",
+        "   "
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:iron_helmet"
+        }
+    },
+   
+    "result":
+    {
+        "item": "expansion:enhanced_iron_helmet",
+        "count": 1
+    }
+}
