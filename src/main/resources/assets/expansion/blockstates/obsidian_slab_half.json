@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default":  { "model": "expansion:obsidian_slab_bottom" },
-        "half=top,variant=default":  { "model": "expansion:obsidian_slab_top" }
-    }
-}
